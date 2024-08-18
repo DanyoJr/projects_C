@@ -59,5 +59,7 @@ int main(){
     printf("\n %d", result);
     printf("\n");
 
+    //no codewars como isso foi uma funcao e nao o main
+    //o return teria que ser "return result;" mas aqui nao tem necessudade
     return 0;
 };
